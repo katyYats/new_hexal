@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Lato';
+    src: url('fonts/lato/Lato-Regular/ttf');
+    src: url('fonts/lato/Lato-Bold/ttf');
+}
+@font-face {
+    font-family: 'Maven Pro';
+    src: url('fonts/lato/Maven_Pro_Regular/otf');
+    src: url('fonts/lato/Maven_Pro_Bold/otf');
+}
